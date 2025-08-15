@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "e9ec",
+      "name": "Bhavesh",
+      "age": "15",
+      "username": "bhavesh",
+      "email": "bhavesh@gmail.com"
+    },
+    {
+      "id": "cc8c",
+      "name": "Dipti",
+      "age": "24",
+      "username": "dipti009",
+      "email": "dipti@gmail.com"
+    },
+    {
+      "id": "d252",
+      "name": "yash",
+      "age": "28",
+      "username": "yash 997",
+      "email": "yash@gmail.com"
+    }
+  ]
+}
